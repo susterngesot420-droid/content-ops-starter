@@ -14,14 +14,14 @@ sections:
       RTP bukan prediksi hasil, hanya informasi tambahan untuk pemain.
     actions:
       - label: "Daftar"
-        url: "https://rtp-win313.online/daftar"
+        url: "https://rtp-win313.online/"
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
       - label: "Masuk"
-        url: "https://rtp-win313.online/login"
+        url: "https://rtp-win313.online/"
         showIcon: true
         icon: arrowRight
         iconPosition: right
